@@ -1,0 +1,3 @@
+#The Minecraft Eula to start a server!
+#accepting this is required -MrNorshare
+eula=true
